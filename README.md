@@ -4,7 +4,8 @@ Hemos añadido los principales elementos para automatizar una casa (luz, alarma,
 
 ## Integrantes del equipo
 
-Raquel García Franco 
+Raquel García Franco rgfranco2
+
 Irene Álvarez Pérez Irenealvarezperez
 
 ## Objetivos del trabajo
